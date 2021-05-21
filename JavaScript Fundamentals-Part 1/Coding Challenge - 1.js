@@ -20,7 +20,6 @@ m tall
 
 */
 
-
 let heightJohn = null;
 let weightJohn = null;
 
